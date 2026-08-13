@@ -1,9 +1,12 @@
+<p align="center">
+  <img src="http://jtay.me/gitHub-Header.gif"/>
+</p>
 ## Hi there 👋
 
-<!--
+<!-- HIDDEN 
 **April-Taylor/April-Taylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p>Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p>Is this just html that the header containe the tag?</p>
+<img src="https://m.media-amazon.com/images/I/6198L6sqDvL._SS284_.jpg">
