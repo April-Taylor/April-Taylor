@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="http://jtay.me/e
-    r.gif"/>
+  <img src="http://jtay.me/emr.gif"/>
 </p>
 <p>Hi there 👋<br>
 
