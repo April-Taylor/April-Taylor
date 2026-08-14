@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://jtay.me/gitHub-Header.gif"/>
+  <img src="http://jtay.me/emr.gif"/>
 </p>
 ## Hi there 👋
 
